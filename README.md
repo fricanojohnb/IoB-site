@@ -1,6 +1,8 @@
 # GH Page
- - Track deployments @ https://github.com/username/username.github.io/deployments
+ - Track deployments @ https://github.com/fricanojohnb/fricanojohnb.github.io/deployments
+    - https://docs.github.com/en/github/administering-a-repository/viewing-deployment-activity-for-your-repository
  - hosting page: https://fricanojohnb.github.io/IoB-site/
+ - https://github.blog/2016-12-05-relative-links-for-github-pages/
 
 # Docker Image
  - https://hub.docker.com/_/httpd
