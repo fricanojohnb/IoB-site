@@ -1,3 +1,7 @@
+# GH Page
+ - Track deployments @ https://github.com/username/username.github.io/deployments
+ - hosting page: https://fricanojohnb.github.io/IoB-site/
+
 # Docker Image
  - https://hub.docker.com/_/httpd
 
